@@ -37,8 +37,5 @@ tb_cordic_top
 ---
 
 ## Notes
-- The controller generates **one-clock enable pulses**
-- State transitions depend on datapath `done` signals
 - The design supports repeated execution without manual reset
-- Waveform inspection is recommended for debugging.
 - Increasing the number of fractional bits improves numerical accuracy.
