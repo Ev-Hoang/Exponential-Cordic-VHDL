@@ -3,7 +3,7 @@
 ## Overview
 This project implements a **Hyperbolic CORDIC (COordinate Rotation DIgital Computer)** using **VHDL**, designed for a **Digital Design** course.
 
-The design follows a **Datapath + Controller (FSM)** architecture and uses **fixed-point arithmetic** to compute hyperbolic functions such as `atanh` / `ln`.
+The design follows a **Datapath + Controller (FSM)** architecture and uses **fixed-point arithmetic** to compute hyperbolic functions  `e`^`t`.
 
 The main goal of this exercise is to practice:
 - Fixed-point arithmetic in hardware
